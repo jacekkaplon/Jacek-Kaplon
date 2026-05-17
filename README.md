@@ -2,9 +2,12 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=setka007&color=blue&style=flat-square)](https://github.com/setka007)
 
-## Quality & Inspection Technician
+# Jacek Kaplon
+### Infrastructure & Network Engineering | Systems Administration | Cybersecurity
 
-> I'm a detail-oriented engineering professional who thrives on turning intricate problems into efficient solutions. My hands-on expertise in Linux systems administration and network infrastructure empowers me to design, deploy, and troubleshoot hybrid networks while ensuring compliance in regulated industries.
+An engineering professional with a strong technical background in high-precision, regulated environments, currently transitioning into Network Engineering and Infrastructure Security. 
+
+I manage a complex, production-grade homelab infrastructure where I design, deploy, and secure enterprise-level networking solutions. My expertise focuses on secure tunneling (WireGuard, GRETAP), advanced DNS architectures (DoQ/DoT), and proactive security monitoring (Wazuh SIEM). Known for translating complex technical challenges into stable, well-documented, and production-ready infrastructure.
 
 ### 🏢 Experience
 
