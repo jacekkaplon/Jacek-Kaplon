@@ -12,7 +12,7 @@ I manage a complex, production-grade homelab infrastructure where I design, depl
 ### 🏢 Experience
 
 - Currently at **Syensqo (Solvay Group)**
-- Based in **Nottinghamshire, UK**
+- Based in **Derbyshire, UK**
 
 ### 🛠️ Tech Stack
 
