@@ -39,11 +39,6 @@ A home SOC environment built to detect, analyse, and document real-world threats
 - Microsoft SC-900
 - CySA+ — in progress
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacekkaplon&show_icons=true&theme=dark)
 
 ---
 
