@@ -2,9 +2,7 @@
 
 **Network Security Specialist | SIEM · Threat Detection · Linux Infrastructure**
 
-Engineering professional with 9 years in regulated aerospace/automotive environments (AS9100/IATF), 
-now focused on cybersecurity and network security operations. I build and operate 
-production-grade security infrastructure — not just study it.
+Engineering professional with 9 years in regulated aerospace/automotive environments (AS9100/IATF), now focused on cybersecurity and network security operations. I build and operate production-grade security infrastructure — not just study it.
 
 ---
 
@@ -19,7 +17,7 @@ A home SOC environment built to detect, analyse, and document real-world threats
 - VirusTotal REST API integration for automated IOC enrichment
 - Structured IR tickets mapped to MITRE ATT&CK
 
-➡️ [View Project](https://github.com/jacekkaplon/the-little-fish-hunter)
+➡️ [View Project](https://github.com/jacekkaplon/The-Littlefish-Hunter)
 
 ---
 
@@ -51,4 +49,4 @@ A home SOC environment built to detect, analyse, and document real-world threats
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacek%20Kaplon-blue)](https://www.linkedin.com/in/jacek-kaplon/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacek%20Kaplon-blue)](https://www.linkedin.com/in/jacek-kaplon/)
