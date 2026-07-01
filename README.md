@@ -51,4 +51,4 @@ A home SOC environment built to detect, analyse, and document real-world threats
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacek%20Kaplon-blue)](https://www.linkedin.com/in/jacekkaplon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacek%20Kaplon-blue)](https://www.linkedin.com/in/jacek-kaplon/))
